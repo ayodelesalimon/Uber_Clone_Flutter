@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "678233701573",
+    "firebase_url": "https://uberry-9b41a.firebaseio.com",
+    "project_id": "uberry-9b41a",
+    "storage_bucket": "uberry-9b41a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678233701573:android:30ba1ec89430bd258e84ac",
+        "android_client_info": {
+          "package_name": "com.example.uber_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678233701573-ap550dct4ktind84bih3seca0abd02mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9hosirqav7dcIIphS6FLb9GG00Z_rxPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678233701573-ap550dct4ktind84bih3seca0abd02mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
